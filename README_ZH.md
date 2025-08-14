@@ -25,7 +25,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**Druid数据库**](https://marketplace.huaweicloud.com/hidden)，已预先安装 Druid 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Druid数据库**](https://marketplace.huaweicloud.com/hidden/contents/1bd4a685-14f4-44ca-9d5a-84fb4cc45ecc#productid=OFFI1161477542858375168)，已预先安装 Druid 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高

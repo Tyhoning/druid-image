@@ -26,7 +26,7 @@
 
 ![](./images/img001.png)
 
-This project offers pre-configured [**Druid Database**](https://marketplace.huaweicloud.com) images with Druid and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Druid Database**](https://marketplace.huaweicloud.com/intl/hidden/contents/63b64c0b-e95a-4f5f-9029-92f0cc005505) images with Druid and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  
