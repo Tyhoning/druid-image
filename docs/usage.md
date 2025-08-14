@@ -43,13 +43,13 @@
 前提工作准备好后，选择 ECS 控制台配置跳转到[购买ECS](https://support.huaweicloud.com/qs-ecs/ecs_01_0103.html) 页面，ECS 资源的配置如下图所示：
 
 选择CPU架构
-![img.png](images/img8.png)
+![img.png](images/img3-2-1.png)
 选择服务器规格
-![img_1.png](images/img_1.png)
+![img.png](images/img3-2-2.png)
 选择镜像
-![img_2.png](images/img_2.png)
+![img.png](images/img3-2-3.png)
 其他参数根据实际情况进行填写，填写完成之后，点击立即购买即可
-![img_3.png](images/img_3.png)
+![img.png](images/img3-2-4.png)
 
 
 > **值得注意的是：**
