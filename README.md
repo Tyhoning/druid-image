@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Druid数据库](https://marketplace.huaweicloud.com/hidden/contents/)
+- 镜像商品：[Druid数据库](https://marketplace.huaweicloud.com/hidden/contents/1bd4a685-14f4-44ca-9d5a-84fb4cc45ecc#productid=OFFI1161477542858375168)
 - 镜像规格：Druid32.0-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM

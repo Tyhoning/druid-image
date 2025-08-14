@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Druid数据库](https://marketplace.huaweicloud.com)
+[Druid数据库](https://marketplace.huaweicloud.com/hidden/contents/1bd4a685-14f4-44ca-9d5a-84fb4cc45ecc#productid=OFFI1161477542858375168)
 
 # 二、商品说明
 
